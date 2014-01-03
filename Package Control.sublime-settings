@@ -1,0 +1,25 @@
+{
+    "installed_packages":
+    [
+        "Base16 Color Schemes",
+        "Better CoffeeScript",
+        "CoffeeComplete Plus (Autocompletion)",
+        "CoffeeScriptHaml",
+        "Git",
+        "GitGutter",
+        "Gitignore",
+        "Haml",
+        "Http Requester",
+        "Inc-Dec-Value",
+        "Jade",
+        "Markdown Preview",
+        "PlainTasks",
+        "PlistJsonConverter",
+        "Pretty JSON",
+        "Sass",
+        "SideBarEnhancements",
+        "Theme - itg.flat",
+        "Theme - Spacefunk",
+        "Theme - Spacegray"
+    ]
+}
